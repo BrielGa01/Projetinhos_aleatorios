@@ -3,4 +3,4 @@
 Atualmente inclui os seguintes programas:
 - Jogo do Número Secreto
 
-![Imagem bonitinha](https://www.bing.com/images/create/hobby-robc3b3tica-ao-ar-livre/1-658908c637124c558eee5351beca8e23?id=76sx9jjKV1gTW%2fWIp%2bySWQ%3d%3d&view=detailv2&idpp=genimg&FORM=GCRIDP&mode=overlay)
+![Imagem bonitinha](https://api.deepai.org/job-view-file/f2d5cf3d-90a7-478c-b805-38b4aad3b1fa/outputs/output.jpg)
